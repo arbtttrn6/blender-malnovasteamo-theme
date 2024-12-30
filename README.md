@@ -1,6 +1,6 @@
 # blender-malnovasteamo-theme  
 Priskribo: La Blendera etoso, kiu similas malnovan Steamon  
-Aŭtoro: [arbtttrn6](https://github.com/ArturAiwasan)  
+Aŭtoro: [arbtttrn6](https://github.com/arbtttrn6)  
 
 ## Instalado  
 
